@@ -1,6 +1,6 @@
 {
 	"ip":"176.9.5.59:26099",
-	"port": 26099,
+	"port": 25565,
 	"name": "Inabot",
 	"auto-night-skip":"false",
 	"login-enabled":"true",
