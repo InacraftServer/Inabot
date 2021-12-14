@@ -1,9 +1,0 @@
-{
-	"ip":"176.9.5.59:26099",
-	"port": 26099,
-	"name": "Inabot",
-	"auto-night-skip":"false",
-	"login-enabled":"true",
-	"register-cmd":"/register (Servers1nacraft!) Servers1nacraft!)",
-	"login-cmd":"/login (Servers1nacraft!)"
-}
